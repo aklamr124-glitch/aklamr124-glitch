@@ -12,7 +12,7 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=Amr-Akl&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmr-Akl&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Amr%20Akl-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+[![telegram badge](https://img.shields.io/badge/Amr%20Akl-grey?style=flat&logo=telegram)](https://t.me/Amrakl92) <br>
 </div>
 
 <hr></hr>
@@ -58,6 +58,6 @@ class About extends Me {
     "Database" : { "Firebase", "Sqlite" },
     "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
     "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom", "Telegram": "t.me/Amrakl92" }
   };
 }
